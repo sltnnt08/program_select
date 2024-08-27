@@ -1,0 +1,11 @@
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\pbt26Aug24\obj\Debug\pbt26Aug24.vbproj.AssemblyReference.cache
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\pbt26Aug24\obj\Debug\pbt26Aug24.Resources.resources
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\pbt26Aug24\obj\Debug\pbt26Aug24.vbproj.GenerateResource.cache
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\pbt26Aug24\obj\Debug\pbt26Aug24.vbproj.CoreCompileInputs.cache
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\pbt26Aug24\bin\Debug\pbt26Aug24.exe.config
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\pbt26Aug24\bin\Debug\pbt26Aug24.exe
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\pbt26Aug24\bin\Debug\pbt26Aug24.pdb
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\pbt26Aug24\bin\Debug\pbt26Aug24.xml
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\pbt26Aug24\obj\Debug\pbt26Aug24.exe
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\pbt26Aug24\obj\Debug\pbt26Aug24.xml
+C:\Users\advan\Documents\Sultan\SMKN 1 KARAWANG\pbt\neskar\pbt\pbt26Aug24\obj\Debug\pbt26Aug24.pdb
